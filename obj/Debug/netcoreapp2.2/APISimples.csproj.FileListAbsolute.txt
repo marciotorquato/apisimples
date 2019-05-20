@@ -1,0 +1,14 @@
+C:\Estudo\C#\API\APISimples\APISimples\bin\Debug\netcoreapp2.2\APISimples.deps.json
+C:\Estudo\C#\API\APISimples\APISimples\bin\Debug\netcoreapp2.2\APISimples.runtimeconfig.json
+C:\Estudo\C#\API\APISimples\APISimples\bin\Debug\netcoreapp2.2\APISimples.runtimeconfig.dev.json
+C:\Estudo\C#\API\APISimples\APISimples\bin\Debug\netcoreapp2.2\APISimples.dll
+C:\Estudo\C#\API\APISimples\APISimples\bin\Debug\netcoreapp2.2\APISimples.pdb
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.csprojAssemblyReference.cache
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.csproj.CoreCompileInputs.cache
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.RazorAssemblyInfo.cache
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.RazorAssemblyInfo.cs
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.AssemblyInfoInputs.cache
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.AssemblyInfo.cs
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.RazorTargetAssemblyInfo.cache
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.dll
+C:\Estudo\C#\API\APISimples\APISimples\obj\Debug\netcoreapp2.2\APISimples.pdb
